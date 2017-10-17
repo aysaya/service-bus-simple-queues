@@ -16,7 +16,7 @@
 * open the projects (RateWebhook and QueueEngine) in Visual Studio.
 * [add user secrets](https://messagedriven.wordpress.com/2017/09/03/managing-user-secrets/)
 * build and run.
-* [use postman to send to webhook sample payload.] (https://messagedriven.wordpress.com/2017/08/26/sending-and-consuming-messages-in-azure-service-bus/)
+* [use postman to send to webhook sample payload](https://messagedriven.wordpress.com/2017/08/26/sending-and-consuming-messages-in-azure-service-bus/)
 
 ## VS Code steps
 * [add user secrets](https://messagedriven.wordpress.com/2017/09/03/managing-user-secrets/)
